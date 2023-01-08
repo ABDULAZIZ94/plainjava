@@ -9,6 +9,13 @@ public class App {
         //AryIterate.runTest();
         //AryInsert.runTest();
         //AryUpdate.runTest();
-        AryRetrieve.runTest();
+        //AryRetrieve.runTest();
+        //AryRemove.runTest();
+        //ArySearch.runTest();
+        //ArySort.runTest();
+        //AryCopy.runTest();
+        //AryShuffle.runTest();
+        //AryReverse.runTest();
+        AryExtract.runTest();
     }
 }

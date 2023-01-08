@@ -1,9 +1,6 @@
 package com.example.aziz;
-
-import java.util.ArrayList;
-import java.util.List;
-
-public class AryRemove {
+import java.util.*;
+public class ArySort {
     public static void runTest(){
         //create a list and add some colors to the list
         List<String> listString = new ArrayList<String>();
@@ -12,11 +9,8 @@ public class AryRemove {
         listString.add("Orange");
         listString.add("White");
         listString.add("Black");
-        //print the list
-        System.out.println(listString);
-        //remove the third element from the list
-        listString.remove(2);
-        //print the list again
-        System.out.println("Afteremoving third element from the list:\n "+listString);
+        System.out.println("List before sort: "+listString);
+        Collections.sort(listString);
+        System.out.println("List after sort: "+listString);
     }
 }
