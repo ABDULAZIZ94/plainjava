@@ -16,6 +16,16 @@ public class App {
         //AryCopy.runTest();
         //AryShuffle.runTest();
         //AryReverse.runTest();
-        AryExtract.runTest();
+        //AryExtract.runTest();
+        //AryCompareList.runTest();
+        //ArySwap.runTest();
+        //AryCombine.runTest();
+        //AryClone.runTest();
+        //AryEmpty.runTest();
+        //AryTestEmpty.runTest();
+        //AryTrim.runTest();
+        //AryIncrease.runTest();
+        //AryReplace.runTest();
+        AryLinked.runTest();
     }
 }
