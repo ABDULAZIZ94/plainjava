@@ -26,6 +26,9 @@ public class App {
         //AryTrim.runTest();
         //AryIncrease.runTest();
         //AryReplace.runTest();
-        AryLinked.runTest();
+        //LinkedAppend.runTest();
+        //LinkedIterate.runTest();
+        //LinkedIterate2.runTest();
+        // LinkedReverse.runTest();
     }
 }

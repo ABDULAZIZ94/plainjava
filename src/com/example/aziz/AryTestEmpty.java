@@ -1,6 +1,5 @@
 package com.example.aziz;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class AryTestEmpty {
     public static void runTest(){
