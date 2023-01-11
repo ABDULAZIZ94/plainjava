@@ -30,5 +30,8 @@ public class App {
         //LinkedIterate.runTest();
         //LinkedIterate2.runTest();
         // LinkedReverse.runTest();
+        //HackerRankScanner.runTest();
+        //HackerRankPrintf.runTest();
+        //HackerRankLoop2.runTest();
     }
 }
