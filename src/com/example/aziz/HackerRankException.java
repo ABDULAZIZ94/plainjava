@@ -7,7 +7,7 @@ public class HackerRankException {
         Scanner scan  =  new Scanner(System.in);
         int b = scan.nextInt();
         int h = scan.nextInt();
-        if(-100<b && b<100 && -100<h && h<100)
+        if(-100<=b && b<=100 && -100<=h && h<=100)
             try{
                 if(! (b>0 && h>0)){
                     throw new Exception("Breadth and height must be positive");
