@@ -33,5 +33,6 @@ public class App {
         //HackerRankScanner.runTest();
         //HackerRankPrintf.runTest();
         //HackerRankLoop2.runTest();
+        HackerRankFile.runTest();
     }
 }
