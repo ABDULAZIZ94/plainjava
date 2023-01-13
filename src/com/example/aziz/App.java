@@ -39,6 +39,6 @@ public class App {
         //HackerRankDateTime.runTest();
         //HackerRankCurrencyFormatter.runTest();
         // HackerRankSingleton.runTest();
-        
+        HackerRankTreeQuestion.runTest();
     }
 }

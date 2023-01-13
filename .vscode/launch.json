@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "com.example.aziz.Solution",
+            "projectName": "plainjava_5f00375e"
+        },
+        {
+            "type": "java",
             "name": "Launch HackerRankTreeQuestion",
             "request": "launch",
             "mainClass": "com.example.aziz.HackerRankTreeQuestion",
