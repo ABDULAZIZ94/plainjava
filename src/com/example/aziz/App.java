@@ -38,6 +38,7 @@ public class App {
         // HackerRankConvert.runTest();
         //HackerRankDateTime.runTest();
         //HackerRankCurrencyFormatter.runTest();
-        HackerRankSingleton.runTest();
+        // HackerRankSingleton.runTest();
+        
     }
 }
