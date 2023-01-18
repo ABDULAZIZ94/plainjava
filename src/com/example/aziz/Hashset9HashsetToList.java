@@ -1,8 +1,10 @@
 package com.example.aziz;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 
-public class Hashset7ConvertToArray {
+public class Hashset9HashsetToList {
     public static void runTest(){
      // Create a empty hash set
      HashSet<String> h_set = new HashSet<String>();
@@ -14,15 +16,12 @@ public class Hashset7ConvertToArray {
             h_set.add("Pink");
             h_set.add("Yellow");
         System.out.println("Original Hash Set: " + h_set);
-        // Creating an conventional Array
-        //fixed size
-        String[] new_array = new String[h_set.size()];
-        h_set.toArray(new_array);
+      
+      // Create a List from HashSet elements
+      //Not fixed size
+       List<String> list = new ArrayList<String>(h_set);
    
-       // Displaying Array elements
-       System.out.println("Array elements: ");
-        for(String element : new_array){
-          System.out.println(element);
-       }
+       // Display ArrayList elements
+       System.out.println("ArrayList contains: "+ list);
     }
 }

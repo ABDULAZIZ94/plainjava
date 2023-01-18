@@ -72,6 +72,11 @@ public class App {
         // Hashset4EmptyHashset.runTest();
         // Hashset5TestEmpty.runTest();
         // Hashset6CloneToAnother.runTest();
-        
+        // Hashset7ConvertToArray.runTest();
+        // Hashset8HashsetToTreeset.runTest();
+        // Hashset9HashsetToList.runTest();
+        // Hashset10CompareTwo.runTest();
+        // Hashset11CompareRetainElement.runTest();
+        Hashset12RemoveElements.runTest();
     }
 }

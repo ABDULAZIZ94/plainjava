@@ -1,8 +1,10 @@
 package com.example.aziz;
 
 import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
-public class Hashset7ConvertToArray {
+public class Hashset8HashsetToTreeset {
     public static void runTest(){
      // Create a empty hash set
      HashSet<String> h_set = new HashSet<String>();
@@ -14,14 +16,13 @@ public class Hashset7ConvertToArray {
             h_set.add("Pink");
             h_set.add("Yellow");
         System.out.println("Original Hash Set: " + h_set);
-        // Creating an conventional Array
-        //fixed size
-        String[] new_array = new String[h_set.size()];
-        h_set.toArray(new_array);
+      
+       // Creat a TreeSet of HashSet elements
+       Set<String> tree_set = new TreeSet<String>(h_set);
    
-       // Displaying Array elements
-       System.out.println("Array elements: ");
-        for(String element : new_array){
+       // Display TreeSet elements
+       System.out.println("TreeSet elements: ");
+       for(String element : tree_set){
           System.out.println(element);
        }
     }
