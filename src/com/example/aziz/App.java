@@ -82,6 +82,7 @@ public class App {
         // Treeset2Iterate.runTest();
         // Treeset3AddElemets.runTest();
         // Treeset4ReverseOrder.runTest();
-        Treeset5FirstLast.runTest();
+        // Treeset5FirstLast.runTest();
+        // Treeset6Clome.rumTest();
     }
 }
