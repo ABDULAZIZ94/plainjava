@@ -84,6 +84,7 @@ public class App {
         // Treeset4ReverseOrder.runTest();
         // Treeset5FirstLast.runTest();
         // Treeset6Clome.rumTest();
-        Treeset7MumberofElememts.rumTest();
+        // Treeset7MumberofElememts.rumTest();
+        Treeset8CompareTwo.rumTest();
     }
 }
