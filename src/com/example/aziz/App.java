@@ -86,6 +86,9 @@ public class App {
         // Treeset6Clome.rumTest();
         // Treeset7MumberofElememts.rumTest();
         // Treeset8CompareTwo.rumTest();
-        Treeset9Fimdmumber.rumTest();
+        // Treeset9Fimdmumber.rumTest();
+        // Treeset10GetElememtGreater.rumTest();
+        // Treeset11GetElememtsLess.rumTest();
+        Treeset12StricklyGreater.rumTest();
     }
 }
