@@ -85,6 +85,7 @@ public class App {
         // Treeset5FirstLast.runTest();
         // Treeset6Clome.rumTest();
         // Treeset7MumberofElememts.rumTest();
-        Treeset8CompareTwo.rumTest();
+        // Treeset8CompareTwo.rumTest();
+        Treeset9Fimdmumber.rumTest();
     }
 }
