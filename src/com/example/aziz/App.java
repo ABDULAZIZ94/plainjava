@@ -92,6 +92,10 @@ public class App {
         //Treeset12StricklyGreater.rumTest();
         // Treeset13Strictlyless.runTest();
         // Treeset14RetreiveWhileRemove.runTest();
-        Treeset15RetrieveWhileRemove.runTest();
+        // Treeset15RetrieveWhileRemove.runTest();
+        // PriorityQueue1Create.runTest();
+        // PriorityQueue2Iterate.runTest();
+        // PriorityQueue3AddToAnother.runTest();
+        Priority4InsertGivenElement.runTest();
     }
 }
