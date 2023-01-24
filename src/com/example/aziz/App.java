@@ -99,6 +99,7 @@ public class App {
         // Priority4InsertGivenElement.runTest();
         // PriorityQueue5RemoveAllElements.runTest();
         // PriorityQueue7CompareTwo.runTest();
-        PriorityQueue8RetrieveFirstElement.runTest();
+        // PriorityQueue8RetrieveFirstElement.runTest();
+        PriorityQueue9RetreiveAndRemove.runTest();
     }
 }
