@@ -89,6 +89,9 @@ public class App {
         // Treeset9Fimdmumber.rumTest();
         // Treeset10GetElememtGreater.rumTest();
         // Treeset11GetElememtsLess.rumTest();
-        Treeset12StricklyGreater.rumTest();
+        //Treeset12StricklyGreater.rumTest();
+        // Treeset13Strictlyless.runTest();
+        // Treeset14RetreiveWhileRemove.runTest();
+        Treeset15RetrieveWhileRemove.runTest();
     }
 }
