@@ -102,6 +102,21 @@ public class App {
         // PriorityQueue8RetrieveFirstElement.runTest();
         // PriorityQueue9RetreiveAndRemove.runTest();
         // PriorityQueue10ToArray.runTest();
-        PriorityQueue11ToElementString.runTest();
+        // PriorityQueue11ToElementString.runTest();
+        // PriorityQueue12ToMaximum.rumTest();
+        // Hashmap1Associate.runTest();
+        // Hashmap2CountSize.runTest();
+        // Hashmap3CopyMappings.runTest();
+        // Hashmap4RemoveMappings.runTest();
+        // Hashmap5WeitherContains.runTest();
+        // Hashmap6ShallowCopy.runTest();
+        // Hashmap7TestContainsKey.runTest();
+        // Hashmap8ContainsValue.runTest();
+        // HAshmap9CreateSetview.runTest();
+        // Hashmap10GetValue.runTest();
+        // Hashmap11SetviewOfKeys.runTest();
+        // Hashmap12CollectionviewOfValues.runTest();
+        // Treemap1AssociateKeyValue.rumTest();
+        Treemap2CopyToAnother.runTest();
     }
 }
