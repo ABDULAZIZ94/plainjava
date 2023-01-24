@@ -2,7 +2,7 @@ package com.example.aziz;
 
 import java.util.PriorityQueue;
 
-public class Priority4InsertGivenElement {
+public class PriorityQueue4InsertGivenElement {
     //
     public static void runTest(){
         // Create Priority Queue

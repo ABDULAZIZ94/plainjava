@@ -96,6 +96,9 @@ public class App {
         // PriorityQueue1Create.runTest();
         // PriorityQueue2Iterate.runTest();
         // PriorityQueue3AddToAnother.runTest();
-        Priority4InsertGivenElement.runTest();
+        // Priority4InsertGivenElement.runTest();
+        // PriorityQueue5RemoveAllElements.runTest();
+        // PriorityQueue7CompareTwo.runTest();
+        PriorityQueue8RetrieveFirstElement.runTest();
     }
 }
