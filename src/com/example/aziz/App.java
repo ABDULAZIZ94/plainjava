@@ -100,6 +100,8 @@ public class App {
         // PriorityQueue5RemoveAllElements.runTest();
         // PriorityQueue7CompareTwo.runTest();
         // PriorityQueue8RetrieveFirstElement.runTest();
-        PriorityQueue9RetreiveAndRemove.runTest();
+        // PriorityQueue9RetreiveAndRemove.runTest();
+        // PriorityQueue10ToArray.runTest();
+        PriorityQueue11ToElementString.runTest();
     }
 }
