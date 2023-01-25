@@ -117,6 +117,19 @@ public class App {
         // Hashmap11SetviewOfKeys.runTest();
         // Hashmap12CollectionviewOfValues.runTest();
         // Treemap1AssociateKeyValue.rumTest();
-        Treemap2CopyToAnother.runTest();
+        // Treemap2CopyToAnother.runTest();
+        // Treemap3SearchAKey.runTest();
+        // Treemap4SearchValue.runTest();
+        // Treemap5GetAllKey.runTest();
+        // Treemap6DeleteAll.runTest();
+        // Treemap7SortKeys.runTest();
+        // Treemap8GetKeyValueMapping.runTest();
+        // Treemap9GetFirstAndLast.runTest();
+        // Treemap10ReverseOrder.runTest();
+        // Treemap11LessEqualto.runTest();
+        // Treemap12GreatestLessThanEqual.runTest();
+        // Treemap13PortionStriclyLess.runTest();
+        // Treemap14PortionLess.runTest();
+        Treemap15PortionStrictlyLess.runTest();
     }
 }
