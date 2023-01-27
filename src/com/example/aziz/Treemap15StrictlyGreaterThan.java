@@ -2,7 +2,7 @@ package com.example.aziz;
 
 import java.util.TreeMap;
 
-public class Treemap15PortionStrictlyLess {
+public class Treemap15StrictlyGreaterThan {
     public static void runTest(){
         // Create a tree map
         TreeMap< Integer, String > tree_map1 = new TreeMap< Integer, String >();      

@@ -130,6 +130,17 @@ public class App {
         // Treemap12GreatestLessThanEqual.runTest();
         // Treemap13PortionStriclyLess.runTest();
         // Treemap14PortionLess.runTest();
-        Treemap15PortionStrictlyLess.runTest();
+        // Treemap15StrictlyGreaterThan.runTest();
+        // Treemap16StrictlyLessThan.runTest();
+        // Treemap17GreatestKeyStrictlyGreatest.runTest();
+        // Treemap18NavigatableSetView.runTest();
+        // Treemap19RemoveKeymapping.runTest();
+        // Treemap20RemoveandGetKeyValue.runTest();
+        // Treemap21GetPortionOfMap.runTest();
+        // Treemap22GetPortionOfMap2.runTest();
+        // Treemap23GetPortioOfMap.runTest();
+        // Treemap24GetPortionOfMap4.runTest();
+        // Treemap25GetKeyValue.runTest();
+        Treemap26GetLeastKey.runTest();
     }
 }
